@@ -11,6 +11,9 @@ The project consists of three main SQL files:
 1. **`database_trigger.sql`**: Contains a trigger to automatically update a fact table when new sales data is inserted.
 2. **`fact_actual_table.sql`**: Creates and populates a fact table that combines actual sales data with forecast data.
 3. **`get_forecast_accuracy_by_year_report.sql`**: Implements a stored procedure to calculate and report forecast accuracy for a given fiscal year.
+   
+### **Dataset Source**  
+The dataset used in this project is provided by **[Codebasics](https://codebasics.io/)** and is designed to simulate real-world business scenarios, making it ideal for analytics and decision-making purpose
 
 ## Detailed Explanation
 
