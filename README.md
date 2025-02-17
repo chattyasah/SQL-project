@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project portfolio demonstrates the use of SQL for supply chain analytics, focusing on sales and forecasting data. The project includes the creation of database triggers, stored procedures, and complex SQL queries to analyze and manage sales data, forecast accuracy, and performance metrics. The goal is to provide a robust and scalable solution for tracking sales, forecasting, and evaluating forecast accuracy over time.
+This project portfolio demonstrates the use of MySQL for supply chain analytics, focusing on sales and forecasting data. The project includes the creation of database triggers, stored procedures, and complex SQL queries to analyze and manage sales data, forecast accuracy, and performance metrics. The goal is to provide a robust and scalable solution for tracking sales, forecasting, and evaluating forecast accuracy over time.
 
 ## Project Structure
 
